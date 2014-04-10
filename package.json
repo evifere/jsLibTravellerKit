@@ -1,0 +1,32 @@
+{
+  "name": "jsLibTravellerKit",
+  "version": "1.0.0",
+  "description": "offline js lib documentation server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evifere/jsLibTravellerKit.git"
+  },
+  "keywords": [
+    "offline",
+    "documentation",
+    "server",
+    "for",
+    "front-end",
+    "js",
+    "libs"
+  ],
+  "author": "evifere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evifere/jsLibTravellerKit/issues"
+  },
+  "homepage": "https://github.com/evifere/jsLibTravellerKit",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-connect": "~2.0.5"
+  }
+}

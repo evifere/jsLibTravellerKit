@@ -17,4 +17,4 @@ then run the server with this command.
 gulp
 ```
 
-Finally enjoy your travel without connection and feel free to code.
+Finally enjoy your travel without connection and feel free to code with your favorite lib documentation.
